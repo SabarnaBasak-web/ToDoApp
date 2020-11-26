@@ -1,0 +1,16 @@
+.Todo{
+    display: flex;
+    justify-content: flex-start;    
+    list-style-type: none;
+    text-align: left;
+    width: 100%;
+    padding: 0;
+}
+
+.edit{
+    margin: 0 0.4rem;
+}
+
+.modal{
+    background: white;
+}
