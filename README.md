@@ -1,2 +1,3 @@
 # ToDoApp
-ToDo Application built using React and Firebase 
+ToDo Application built using __React__ and __Firebase__
+
